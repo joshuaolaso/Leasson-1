@@ -1,1 +1,1 @@
-print("nara")
+print("statu_single")
